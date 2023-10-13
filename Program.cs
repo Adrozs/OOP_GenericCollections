@@ -9,10 +9,10 @@ namespace GenericCollections
         {
 
             // Create employees
-            Employee employee1 = new Employee("626", "Stitch", "Alien", "23800");
+            Employee employee1 = new Employee("626", "Stitch", "Alien", "625624");
             Employee employee2 = new Employee("404", "Notfo Und", "Male", "31337");
-            Employee employee3 = new Employee("555", "Nova", "Female", "36500");
-            Employee employee4 = new Employee("182", "Ava", "Female", "42000");
+            Employee employee3 = new Employee("666", "Dev il", "Female", "36500");
+            Employee employee4 = new Employee("182", "Ava", "Female", "69420");
             Employee employee5 = new Employee("427", "Stanley", "Male", "22300");
 
             // Part 1 - Stack

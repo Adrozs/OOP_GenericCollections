@@ -9,11 +9,11 @@ namespace GenericCollections
     // Employee class
     public class Employee
     {
-        // Declare class variables
-        public string Id;
-        public string Name;
-        public string Gender;
-        public string Salary;
+        // Declare class properties
+        public string Id { get; private set; }
+        public string Name { get; private set; }
+        public string Gender { get; private set; }
+        public string Salary { get; private set; }
 
         // Assigns input to class' variables
         public Employee(string id, string name, string gender, string salary)
